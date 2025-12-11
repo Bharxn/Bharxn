@@ -1,4 +1,4 @@
-<div style="background:#2b2b2b; color:#ffffff; padding:20px; border-radius:12px; font-family:monospace; font-size:14px; line-height:1.1; display:inline-block;">
+<div style="background:#3b3b3b; color:#ffffff; padding:20px; border-radius:12px; font-family:monospace; font-size:14px; line-height:1.1; display:inline-block;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⠴⣶⣶⣶⣶⣶⣦⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
 ⠀⠀⠀⠀⣀⣴⣶⠛⠉⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀<br>
 ⠀⢀⣴⣾⣿⣿⣿⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠻⣦⠀⠀⠀⠀⠀<br>
