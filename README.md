@@ -1,4 +1,4 @@
-<pre style="background:#f5f5f5; padding:12px; border-radius:6px;">
+<pre style="background:#f5f5f5; border-radius:6px;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⠴⣶⣶⣶⣶⣶⣦⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
 ⠀⠀⠀⠀⣀⣴⣶⠛⠉⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀<br>
 ⠀⢀⣴⣾⣿⣿⣿⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠻⣦⠀⠀⠀⠀⠀<br>
